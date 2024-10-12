@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌍 Based in []
-- 🔭 I’m currently working on [Your Current Project/Job]
-- 🌱 I’m currently learning [Technologies You Are Learning]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Social Links]
+- 🌍 Based in [USA]
+- 🔭 I’m currently working on []
+- 🌱 I’m currently learning []
+- 💬 Ask me about []
+- 📫 How to reach me: [bijayasubedi.com]
 
 ## 🛠️ Technologies & Tools
 
