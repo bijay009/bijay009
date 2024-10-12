@@ -1,17 +1,56 @@
-Hi there, I am Bijay Subedi! 👋
+# 👋 Hello, I'm Bijay Subedi!
 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and exploring new technologies. 
 
-🔧 Technologies & Tools
-Languages: [e.g., JavaScript, Python, Java, etc.]
-Frameworks: [e.g., React, Node.js, Django, etc.]
-Databases: [e.g., MySQL, MongoDB, etc.]
-Tools: [e.g., Git, Docker, etc.]
+![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
+## 🚀 About Me
 
-📫 Connect with Me
-LinkedIn
-Personal Website
+- 🌍 Based in []
+- 🔭 I’m currently working on [Your Current Project/Job]
+- 🌱 I’m currently learning [Technologies You Are Learning]
+- 💬 Ask me about [Your Areas of Expertise]
+- 📫 How to reach me: [Your Email or Social Links]
 
-Feel free to reach out if you’d like to discuss ideas, projects, or just want to chat!
+## 🛠️ Technologies & Tools
 
-Thank you for visiting my profile! 🚀
+### Languages
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=flat&logo=javascript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frameworks & Libraries
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Bijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijay009&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+
+### [Project 1](https://github.com/yourusername/project1)
+- **Description**: Brief description of what this project does.
+- **Tech Stack**: JavaScript, React, Node.js
+
+### [Project 2](https://github.com/yourusername/project2)
+- **Description**: Brief description of what this project does.
+- **Tech Stack**: Python, Django, PostgreSQL
+
+### [Project 3](https://github.com/yourusername/project3)
+- **Description**: Brief description of what this project does.
+- **Tech Stack**: Java, Spring Boot
+
+## 📫 Connect with Me
+
+- [Portfolio](https://bijayasubedi.com)
+
+---
+
+Thank you for visiting my GitHub profile! 🌟
