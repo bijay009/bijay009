@@ -2,7 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and exploring new technologies. 
 
-![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
+![Banner Image]   ____  _           ____            _       
+ |  _ \| |         |  _ \          | |      
+ | |_) | | __ _ ___| |_) |_ __ ___  | |_ ___ 
+ |  _ <| |/ _` / __|  _ <| '_ ` _ \ | __/ _ \
+ | |_) | | (_| \__ \ |_) | | | | | || ||  __/
+ |____/|_|\__,_|___/____/|_| |_| |_| \__\___|
+
 
 ## 🚀 About Me
 
