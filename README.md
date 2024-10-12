@@ -2,15 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and exploring new technologies. 
 
-![Banner Image] 
-
 
 ## 🚀 About Me
 
 - 🌍 Based in [USA]
-- 🔭 I’m currently working on []
-- 🌱 I’m currently learning []
-- 💬 Ask me about []
+- 🔭 I’m currently working on [AI projects]
+- 🌱 I’m currently learning Computer Vision. 
+- 💬 Ask me about the things i know.
 - 📫 How to reach me: [bijayasubedi.com]
 
 ## 🛠️ Technologies & Tools
